@@ -4,3 +4,10 @@ Esse projeto é um framework de um estilo diferente de jogo, o objetivo é criar
 1. O projeto será inicialmente codificado em Python mas outras técnologias serão empregadas.
 1. O código será disponibilizado públicamente como ferramenta de estudo para outros desenvolvedores.
 1. Ajudará pessoas que gostam de jogos e de programação a desenvolverem suas habiliades de codificação de comportamentos e tomada de decisão.
+
+# Requisitos
+
+1. Mapa em duas dimensões com limites definitos de tamanho.
+1. Funções prédefinidas de movimentação, espera, coleta de itens, uso de itens e inventário.
+1. Sistema predefinido de comércio.
+1. Sistem predefinido de dano e cura.
